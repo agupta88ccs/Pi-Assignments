@@ -5,3 +5,7 @@ This assignment was not to hard to figure out. I was able to find the code, whic
 
 ## Calculator 
 This assignment was a definetely more complicated than the last assignment. I was finally able to upload things to github without problems. 
+
+## Quadratic Solver 
+This assignment was harder for me. I had a couple of simple syntax errors that took a little while to figure out. I had a lot of the indentation wrong initially which was messing up my code. I was able to use google to help with the quadratic solver part which wasn't too bad. I just need to make sure to read everything over. 
+
