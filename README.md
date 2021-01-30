@@ -12,4 +12,7 @@ This assignment was harder for me. I had a couple of simple syntax errors that t
 ## Strings and Loops
 This assignment was not terribly complicated. The code was short and simple. I keep having this thing when uploading where is makes me confirm the merge which I am not quite sure of. It hasn't caused any issues but I don't know why it is asking me to do that. 
 
+## MSP
+This assignment had us make a hangman game. In my game I made it so the computer already had words and would select a random one to play. This code took me a while. It was hard to figure out and there were many different pieces. I learned more about arrays and realized those are very useful once you figure out how to use them. 
+
 
