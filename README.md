@@ -9,3 +9,7 @@ This assignment was a definetely more complicated than the last assignment. I wa
 ## Quadratic Solver 
 This assignment was harder for me. I had a couple of simple syntax errors that took a little while to figure out. I had a lot of the indentation wrong initially which was messing up my code. I was able to use google to help with the quadratic solver part which wasn't too bad. I just need to make sure to read everything over. 
 
+## Strings and Loops
+This assignment was not terribly complicated. The code was short and simple. I keep having this thing when uploading where is makes me confirm the merge which I am not quite sure of. It hasn't caused any issues but I don't know why it is asking me to do that. 
+
+
