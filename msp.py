@@ -5,7 +5,7 @@ import random   #generates random word
 
 words = ["cake", "brownie", "pizza", "hamburger", "sushi"]
  
-answerWord = words[random.randint(0,len(words)-1)]  #chooses random word
+aWord = words[random.randint(0,len(words)-1)]  #chooses random word
 answerList = []   
 lives = 6   #number of lives
 letterInput = " " 
@@ -63,11 +63,11 @@ print ("Lets play Hangman!")
 
 while lives>0:
 	letterInput = input("Enter a letter: ")
-	if letterInput in answerWord:
+	if letterInput in aWord:
 		print("That's right!")
 
 		for x in range(len(answerWord)): 
-            		if letterInput == answerWord[x]:
+            		if letterInput == aWord[x]:
                 		answerList[x] = letterInput
 		print(answerList)
 		rightGuess = rightGuess + 1
