@@ -18,5 +18,7 @@ This assignment had us make a hangman game. In my game I made it so the computer
 ## GPIO Pins - Bash
 This assignment had us get an LED to blink 10 times using bash. I rea;;y don't like using bash it is kinda confusing and I think python is easier to code on. I also completly forgot how to wire things so that took a little while to figure out. 
 
-
+## GPIO Prins - Python
+This assignment wasn't too bad I was able to find the code at the website linked below. It's called bash.py cause I messes up a little so when looking for the code look for that. 
+https://raspberrypihq.com/making-a-led-blink-using-the-raspberry-pi-and-python/ 
 
