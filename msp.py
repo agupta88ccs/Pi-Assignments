@@ -68,20 +68,20 @@ while lives>0:
 
 		for x in range(len(answerWord)): 
             		if letterInput == answerWord[x]:
-                		answerList[x] = letterInput
+                		answerList[x] = letterInput # if answer is right adds letter in array
 		print(answerList)
-		rightGuess = rightGuess + 1
-		msp(mspState)
+		rightGuess = rightGuess + 1 
+		msp(mspState) # shows hangman state after each round
 
-		if rightGuess == uniqueChar:
+		if rightGuess == uniqueChar: 
 			winLose = True
-			break
+			break # if all letters are guessed end game
 
 	else:
-		lives = lives-1
+		lives = lives-1 
 		print("That's Wrong!")
 		msp(mspState)
-		mspState = mspState + 1
+		mspState = mspState + 1 # if wrong add to the hangman 
 	if winLose == True:
 		print ("Winner")
 	else: 
