@@ -13,6 +13,10 @@ This assignment was harder for me. I had a couple of simple syntax errors that t
 This assignment was not terribly complicated. The code was short and simple. I keep having this thing when uploading where is makes me confirm the merge which I am not quite sure of. It hasn't caused any issues but I don't know why it is asking me to do that. 
 
 ## MSP
-This assignment had us make a hangman game. In my game I made it so the computer already had words and would select a random one to play. This code took me a while. It was hard to figure out and there were many different pieces. I learned more about arrays and realized those are very useful once you figure out how to use them. 
+This assignment had us make a hangman game. In my game I made it so the computer already had words and would select a random one to play. This code took me a while. It was hard to figure out and there were many different pieces. The hardest part was making sure to account for all the pieces within the game. Especially the different arrays. One problem I ran into was figuring out how to end the game. If the word was guessed the game din't end. I fixed this by adding winLose statement to end the game if you ran out of tries or guessed the word. 
+
+## GPIO Pins - Bash
+This assignment had us get an LED to blink 10 times using bash. I rea;;y don't like using bash it is kinda confusing and I think python is easier to code on. I also completly forgot how to wire things so that took a little while to figure out. 
+
 
 
