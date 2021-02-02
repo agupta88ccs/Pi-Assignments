@@ -12,8 +12,8 @@ letterInput = " "
 rightGuess = 0  #number of correct guesses
 winLose = None  #set to true or false, ends game with message 
 mspState=0   #sets tate of the drawing
-uniqueChar=len(set(answerWord))   #finds the amount of unique letters
-for x in range(len(answerWord)):  #makes the array as long as the answer
+uniqueChar=len(set(aWord))   #finds the amount of unique letters
+for x in range(len(aWord)):  #makes the array as long as the answer
     answerList.extend('_') 
 
 def msp(mspState):  #the hangman drawings
@@ -66,14 +66,14 @@ while lives>0:
 	if letterInput in aWord:
 		print("That's right!")
 
-		for x in range(len(answerWord)): 
-<<<<<<< HEAD
+		for x in range(len(aWord)): 
+
             		if letterInput == aWord[x]:
                 		answerList[x] = letterInput
-=======
-            		if letterInput == answerWord[x]:
+
+            		if letterInput == aWord[x]:
                 		answerList[x] = letterInput # if answer is right adds letter in array
->>>>>>> 9dc518e89cfb73fbf08da7c6c89101090ed2f590
+
 		print(answerList)
 		rightGuess = rightGuess + 1 
 		msp(mspState) # shows hangman state after each round
