@@ -66,7 +66,7 @@ while lives>0:
 	if letterInput in aWord:
 		print("That's right!")
 
-		for x in range(len(answerWord)): 
+		for x in range(len(aWord)): 
 <<<<<<< HEAD
             		if letterInput == aWord[x]:
                 		answerList[x] = letterInput
