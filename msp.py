@@ -67,17 +67,17 @@ while lives>0:
 		print("That's right!")
 
 		for x in range(len(aWord)): 
-<<<<<<< HEAD
+
 
             		if letterInput == aWord[x]:
                 		answerList[x] = letterInput
 
-=======
-<<<<<<< HEAD
+
+
             		if letterInput == aWord[x]:
                 		answerList[x] = letterInput
-=======
->>>>>>> 444dc4a7aa7052af51d07e3b3123e5114eb75bfd
+
+
             		if letterInput == aWord[x]:
                 		answerList[x] = letterInput # if answer is right adds letter in array
 
