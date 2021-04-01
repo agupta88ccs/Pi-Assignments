@@ -27,3 +27,6 @@ https://raspberrypihq.com/making-a-led-blink-using-the-raspberry-pi-and-python/
 
 ## GPIO Pins - I2C
 This assingment was kinda complicated. At the beginning the main problem I ran into was getting my screen to work. I don't think it is working sinc enothing is showing up and everytime I run code nothing comes up. I have checked the wires a couple of times so I don't think that is the problem. I followed the instructions and got to the address and yet nothing comes up. I tried running someone elses code and it says it goes through but then nothing shows up. So I don't know what the issue is. I committed the code I used from @pguiffr62 and changed the address to see if anything happened and its still didn't work. When I try to upload the code used it is not working as well. For some reason it is fatal. 
+
+## Headless 
+I committed code used from earlier but I don't know how it'll work since the screen is not working.  
