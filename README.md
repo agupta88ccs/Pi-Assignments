@@ -16,7 +16,7 @@ This assignment was not terribly complicated. The code was short and simple. I k
 This assignment had us make a hangman game. In my game I made it so the computer already had words and would select a random one to play. This code took me a while. It was hard to figure out and there were many different pieces. The hardest part was making sure to account for all the pieces within the game. Especially the different arrays. One problem I ran into was figuring out how to end the game. If the word was guessed the game din't end. I fixed this by adding winLose statement to end the game if you ran out of tries or guessed the word. 
 
 ## GPIO Pins - Bash
-This assignment had us get an LED to blink 10 times using bash. I rea;;y don't like using bash it is kinda confusing and I think python is easier to code on. I also completly forgot how to wire things so that took a little while to figure out. 
+This assignment had us get an LED to blink 10 times using bash. I really don't like using bash it is kinda confusing and I think python is easier to code on. I also completly forgot how to wire things so that took a little while to figure out. 
 
 ## GPIO Prins - Python
 This assignment wasn't too bad I was able to find the code at the website linked below. It's called bash.py cause I messes up a little so when looking for the code look for that. 
