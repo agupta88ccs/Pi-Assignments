@@ -30,3 +30,6 @@ This assingment was kinda complicated. At the beginning the main problem I ran i
 
 ## Headless 
 I still cant commit anything which is frustrating I am trying to figure it out but it keeps saying it is fatal. I wrote code for this as well but I am not positive it works smoothly due to my inability to see anything on the screen. 
+
+## Hello Flask 
+This assignment was pretty simple. I was able to figure it out, I think something must be wrong with my terminal or it is just very slow because it hasn't completey worked. Since I still cannot push things to github I am attaching a screenshot of my terminal. 
