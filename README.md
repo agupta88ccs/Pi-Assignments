@@ -38,3 +38,6 @@ This assignment was pretty simple. I was able to figure it out, I think somethin
 
 ## Pi Camera 
 This assignment was pretty simple, I had a little trouble trying to put in the films but once I got that the code wasn't too bad. The sites really helped a lot. My github still isnt working and I cannot upload it but I have added images of both codes. 
+
+<img src="Screen Shot 2021-04-01 at 7.24.30 PM.png" width="600px"/> 
+<img src="Screen Shot 2021-04-01 at 7.25.36 PM.png" width="600px"/> 
