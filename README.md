@@ -34,4 +34,4 @@ I still cant commit anything which is frustrating I am trying to figure it out b
 ## Hello Flask 
 This assignment was pretty simple. I was able to figure it out, I think something must be wrong with my terminal or it is just very slow because it hasn't completey worked. Since I still cannot push things to github I am attaching a screenshot of my terminal. 
 
-<img src="planning pics/sketch1.png" width="600px"/> 
+<img src="Screen Shot 2021-04-01 at 6.32.00 PM.png" width="600px"/> 
