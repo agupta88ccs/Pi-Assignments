@@ -18,7 +18,12 @@ This assignment had us make a hangman game. In my game I made it so the computer
 ## GPIO Pins - Bash
 This assignment had us get an LED to blink 10 times using bash. I really don't like using bash it is kinda confusing and I think python is easier to code on. I also completly forgot how to wire things so that took a little while to figure out. 
 
-## GPIO Prins - Python
+## GPIO Pins - Python
 This assignment wasn't too bad I was able to find the code at the website linked below. It's called bash.py cause I messes up a little so when looking for the code look for that. 
 https://raspberrypihq.com/making-a-led-blink-using-the-raspberry-pi-and-python/ 
 
+## GPIO Pins - SSH
+
+
+## GPIO Pins - I2C
+This assingment was kinda complicated. At the beginning the main problem I ran into was getting my screen to work. I don't think it is working sinc enothing is showing up and everytime I run code nothing comes up. I have checked the wires a couple of times so I don't think that is the problem. I followed the instructions and got to the address and yet nothing comes up. I tried running someone elses code and it says it goes through but then nothing shows up. So I don't know what the issue is. I committed the code I used from @pguiffr62 and changed the address to see if anything happened and its still didn't work. I uploaded the code I used but don't know how to proceed without the working OLED screen. 
